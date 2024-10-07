@@ -1,5 +1,5 @@
 # Sentiment Analysis on Reviews using NLTK's Vader Sentiment Scoring
-Project Overview
+Project Overview :
 This project leverages NLTK's Vader Sentiment Scoring to perform sentiment analysis on customer reviews. The goal is to classify each review as positive, negative, or neutral, providing valuable insights into customer opinions. The tool is particularly well-suited for analyzing short texts, such as social media posts or reviews, due to its ability to detect contextual polarity.
 
 Repository Contents:
